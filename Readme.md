@@ -1,3 +1,3 @@
 #Hello Project
 
-Just me praticing.
+Just me praticing!
